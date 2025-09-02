@@ -1,7 +1,5 @@
-# piscine-42
-
 <div align="center">
-  <h2>Piscine 42 – École 42</h2>
+  <h1>Piscine 42 – École 42</h1>
   <img src="./img/piscine.png"/>
   <br>
 </div>
