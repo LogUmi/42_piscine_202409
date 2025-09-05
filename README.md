@@ -5,6 +5,7 @@
 </div>
 
 ![42](https://img.shields.io/badge/school-42-black)
+![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
 ![Status](https://img.shields.io/badge/status-selection--process-blue)
 ![Difficulty](https://img.shields.io/badge/difficulty-hard-red)
 
